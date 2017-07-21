@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+}
+
+/* NAVIGATION */
+.openNav {
+    position: absolute;
+    height: 60;
+    width: 25;
+    margin-left: 20;
+    font-size: 160%;
+}
+.overHead {
+    width: 100%;
+    height: 80;
+    background-color: white;
+    box-sizing: border-box;
+    padding: 10;
+}
+.logo {
+    position: relative;
+    display: block;
+
+    height: 80;
+    margin: 0 auto;
+}
+.navLogo {
+    height: 130;
+}
+.headerNav {
+    border: 1px solid transparent;
+    height: 190;
+    background-image: url(images/Picture%2017.jpg);
+    background-size: cover;
+}
+.navText {
+    margin-top: 30;
+    color: black;
+    padding: 10;
+    font-size: 170%;
+}
+.imagecontainer {
+    border: 1px solid transparent;
+    height: 80;
+    width: 60%;
+    margin: 0 auto;
+    margin-top: -10;
+}
+.title {
+    height: 60;
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+}
+.valign {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
